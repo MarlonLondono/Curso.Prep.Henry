@@ -1,10 +1,10 @@
 Variables 
 
-son cajistas que cuando se crean deben tener un nombre, en un principio estan vacias y luego su valor va cambiando.
+son cajitas que cuando se crean deben tener un nombre, en un principio estan vacias y luego su valor va cambiando.
 
 Strings
 
-Es una frase o pablara, que siempre debera ir dentro de comillas ya sean simples o dobles.
+Es una frase o palabra, que siempre debera ir dentro de comillas ya sean simples o dobles.
 
 Funciones
 
